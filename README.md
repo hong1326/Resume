@@ -1,3 +1,3 @@
 # 소개
 ---
-![내 얼굴](얼굴.png)
+<img src=얼굴.png height=150 widht=100>
